@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗💨&fontAlign=70)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=gradient&lines=Welcome+to+Minsung's+github!&font=Redressed&size=30)](https://git.io/typing-svg)
 
 <br/>
