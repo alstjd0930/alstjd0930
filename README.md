@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=header&text)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Redressed&size=31&pause=1000&color=4E99F7&random=false&width=435&lines=Welcome+to+Minsung's+github!)](https://git.io/typing-svg)
-
+<hr>
 <br/>
 
 <!-- stats -->
