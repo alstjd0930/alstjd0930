@@ -7,10 +7,10 @@
 
 
 <!-- stats -->
-<img src = "https://github-readme-stats-pi-tan.vercel.app/api?username=alstjd0930&show_icons=true&theme=onedark">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstjd0930&langs_count=10&layout=compact)]()
 
-<img style="height:180px" src="https://github-readme-stats-pi-tan.vercel.app/api/top-langs/?username=alstjd0930&layout=compact&theme=nord&hide_border=true" />
+
 
 <br><br>
 
