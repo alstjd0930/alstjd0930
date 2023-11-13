@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=gradient&lines=Welcome+to+Minsung's+github!&font=Redressed&size=35)](https://git.io/typing-svg)
----
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstjd0930&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
-<div align="center">
 <br>
 
 
