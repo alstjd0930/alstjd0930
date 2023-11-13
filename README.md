@@ -15,7 +15,7 @@
 <br><br>
 
 <!-- 방문자,sns -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falstjd0930%2F&count_bg=%23D8F27D&title_bg=%23555555&icon=github.svg&icon_color=%23D8F27D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falstjd0930%2F&count_bg=%23D8F27D&title_bg=%23555555&icon=github.svg&icon_color=%23D8F27D&title=hits&edge_flat=false)]()
 
 <a href="https://velog.io/@hamba" target="_blank"><img src="https://img.shields.io/badge/velog-82c59c?style=flat&logo=velog&logoColor=white"/></a>
 
