@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=gradient&lines=Welcome+to+Hanbi's+github!&font=Redressed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=gradient&lines=Welcome+to+Minsung's+github!&font=Redressed&size=40)](https://git.io/typing-svg)
 ---
 
 <div align="center">
@@ -8,7 +8,6 @@
 
 <!-- stats -->
 <img src = "https://github-readme-stats-pi-tan.vercel.app/api?username=khbbbbi&show_icons=true&theme=onedark">
-<!--[![khbbbbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khbbbbi)](https://github.com/khbbbbi/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khbbbbi&langs_count=10&layout=compact)]()
 
 <img style="height:180px" src="https://github-readme-stats-pi-tan.vercel.app/api/top-langs/?username=khbbbbi&layout=compact&theme=nord&hide_border=true" />
