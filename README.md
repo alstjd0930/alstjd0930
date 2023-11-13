@@ -8,7 +8,7 @@
 
 <!-- stats -->
 
-<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeomhojun1)](https://github.com/anuraghazra/github-readme-stats)</span>
+<span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstjd0930)](https://github.com/anuraghazra/github-readme-stats)</span>
 
 
 <br><br>
