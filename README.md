@@ -1,8 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=gradient&lines=Welcome+to+Minsung's+github!&font=Redressed&size=30)](https://git.io/typing-svg)
 
-<hr>
-<br>
+<br/>
 
 
 
@@ -12,7 +11,7 @@ Name : 김민성 (KimMinSung) <br/>
 Email : alstjd0930@naver.com <br/>
  <br/>
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd0930)](https://github.com/anuraghazra/github-readme-stats)
-##💪Skills
+# 💪Skills
 ### Platforms & Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
