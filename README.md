@@ -3,11 +3,7 @@
 <hr>
 <br/>
 
-<!-- stats -->
-### 🦸‍♂️ Profile
-Name : 김민성 (KimMinSung) <br/>
-Email : alstjd0930@naver.com <br/>
- <br/>
+
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjd0930)](https://github.com/anuraghazra/github-readme-stats)
 # 💪Skills
